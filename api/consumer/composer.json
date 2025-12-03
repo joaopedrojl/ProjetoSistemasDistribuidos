@@ -1,0 +1,6 @@
+{
+    "name": "jnascimento.solutis/consumer",
+    "require": {
+        "php-amqplib/php-amqplib": "^3.7"
+    }
+}
